@@ -1,0 +1,18 @@
+C:\Users\ziyadoygun\source\repos\Covit-19 Ziya Doygun\Covit-19 Ziya Doygun\obj\Debug\Covit-19 Ziya Doygun.csprojAssemblyReference.cache
+C:\Users\ziyadoygun\source\repos\Covit-19 Ziya Doygun\Covit-19 Ziya Doygun\obj\Debug\Covit_19_Ziya_Doygun.Form1.resources
+C:\Users\ziyadoygun\source\repos\Covit-19 Ziya Doygun\Covit-19 Ziya Doygun\obj\Debug\Covit_19_Ziya_Doygun.Properties.Resources.resources
+C:\Users\ziyadoygun\source\repos\Covit-19 Ziya Doygun\Covit-19 Ziya Doygun\obj\Debug\Covit-19 Ziya Doygun.csproj.GenerateResource.cache
+C:\Users\ziyadoygun\source\repos\Covit-19 Ziya Doygun\Covit-19 Ziya Doygun\bin\Debug\Covit-19 Ziya Doygun.exe.config
+C:\Users\ziyadoygun\source\repos\Covit-19 Ziya Doygun\Covit-19 Ziya Doygun\bin\Debug\Covit-19 Ziya Doygun.exe
+C:\Users\ziyadoygun\source\repos\Covit-19 Ziya Doygun\Covit-19 Ziya Doygun\bin\Debug\Covit-19 Ziya Doygun.pdb
+C:\Users\ziyadoygun\source\repos\Covit-19 Ziya Doygun\Covit-19 Ziya Doygun\obj\Debug\Covit-19 Ziya Doygun.exe
+C:\Users\ziyadoygun\source\repos\Covit-19 Ziya Doygun\Covit-19 Ziya Doygun\obj\Debug\Covit-19 Ziya Doygun.pdb
+C:\Users\ziyadoygun\Desktop\Covit-19 Ziya Doygun\Covit-19 Ziya Doygun\bin\Debug\Covit-19 Ziya Doygun.exe.config
+C:\Users\ziyadoygun\Desktop\Covit-19 Ziya Doygun\Covit-19 Ziya Doygun\bin\Debug\Covit-19 Ziya Doygun.exe
+C:\Users\ziyadoygun\Desktop\Covit-19 Ziya Doygun\Covit-19 Ziya Doygun\bin\Debug\Covit-19 Ziya Doygun.pdb
+C:\Users\ziyadoygun\Desktop\Covit-19 Ziya Doygun\Covit-19 Ziya Doygun\obj\Debug\Covit-19 Ziya Doygun.csprojAssemblyReference.cache
+C:\Users\ziyadoygun\Desktop\Covit-19 Ziya Doygun\Covit-19 Ziya Doygun\obj\Debug\Covit_19_Ziya_Doygun.Form1.resources
+C:\Users\ziyadoygun\Desktop\Covit-19 Ziya Doygun\Covit-19 Ziya Doygun\obj\Debug\Covit_19_Ziya_Doygun.Properties.Resources.resources
+C:\Users\ziyadoygun\Desktop\Covit-19 Ziya Doygun\Covit-19 Ziya Doygun\obj\Debug\Covit-19 Ziya Doygun.csproj.GenerateResource.cache
+C:\Users\ziyadoygun\Desktop\Covit-19 Ziya Doygun\Covit-19 Ziya Doygun\obj\Debug\Covit-19 Ziya Doygun.exe
+C:\Users\ziyadoygun\Desktop\Covit-19 Ziya Doygun\Covit-19 Ziya Doygun\obj\Debug\Covit-19 Ziya Doygun.pdb
